@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tvg-url="https://www.open-epg.com/files/unitedstates7.xml.gz https://www.open-epg.com/files/unitedkingdom.xml.gz"
 #EXTINF:-1 tvg-name="UK: 4 SEVEN" group-title="UK",UK: 4 SEVEN
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41041.ts
 #EXTINF:-1 tvg-name="UK: 5 Action" group-title="UK",UK: 5 Action
