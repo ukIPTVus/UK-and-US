@@ -736,3 +736,12 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59264.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59265.ts
 #EXTINF:-1 tvg-name="WILLOW CRICKET HD" group-title="UK SPORTS",WILLOW CRICKET HD
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/31092.ts
+
+## 24/7 CHANNELS ##
+
+#EXTINF:-1 tvg-name="24/7: 100 Foot Wave" group-title="24/7",24/7: 100 Foot Wave
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57528.ts
+#EXTINF:-1 tvg-name="24/7: 1000 Ways to Die" group-title="24/7",24/7: 1000 Ways to Die
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60194.ts
+#EXTINF:-1 tvg-name="24/7: 1000-lb Best Friends" group-title="24/7",24/7: 1000-lb Best Friends
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57529.ts
