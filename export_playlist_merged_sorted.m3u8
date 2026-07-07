@@ -199,6 +199,152 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50132.ts
 #EXTINF:-1 tvg-name="UK: YESTERDAY+1" group-title="UK",UK: YESTERDAY+1
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50133.ts
 
+## UK Sports ##
+
+#EXTM3U
+#EXTINF:-1 tvg-name="BEIN SPORTS  Premium 1 HD" group-title="UK SPORTS",BEIN SPORTS  Premium 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14109.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS  Premium 2 HD" group-title="UK SPORTS",BEIN SPORTS  Premium 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14108.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS  Premium 3 HD" group-title="UK SPORTS",BEIN SPORTS  Premium 3 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/14107.ts
+#EXTINF:-1 tvg-name="EN- BEIN SPORTS 1 EN HD" group-title="UK SPORTS",EN- BEIN SPORTS 1 EN HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58757.ts
+#EXTINF:-1 tvg-name="EN- BEIN SPORTS 2 EN HD" group-title="UK SPORTS",EN- BEIN SPORTS 2 EN HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58758.ts
+#EXTINF:-1 tvg-name="PDC DARTS (Live Events Only)" group-title="UK SPORTS",PDC DARTS (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59570.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 1 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 1 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40869.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 2 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 2 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/40870.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 3 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 3 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59564.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 4 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 4 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59565.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 5 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 5 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59566.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 6 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 6 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59567.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 7 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 7 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59568.ts
+#EXTINF:-1 tvg-name="PDC DARTS BOARD 8 (Live Events Only)" group-title="UK SPORTS",PDC DARTS BOARD 8 (Live Events Only)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59569.ts
+#EXTINF:-1 tvg-name="SSP - Action / NFL 50FPS FHD" group-title="UK SPORTS",SSP - Action / NFL 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58919.ts
+#EXTINF:-1 tvg-name="SSP - ACTION USA" group-title="UK SPORTS",SSP - ACTION USA
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16569.ts
+#EXTINF:-1 tvg-name="SSP - ACTION USA HD" group-title="UK SPORTS",SSP - ACTION USA HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16561.ts
+#EXTINF:-1 tvg-name="SSP - Cricket 50FPS FHD" group-title="UK SPORTS",SSP - Cricket 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58921.ts
+#EXTINF:-1 tvg-name="SSP - CRICKET HD" group-title="UK SPORTS",SSP - CRICKET HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/25581.ts
+#EXTINF:-1 tvg-name="SSP - F1 50FPS FHD" group-title="UK SPORTS",SSP - F1 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58920.ts
+#EXTINF:-1 tvg-name="SSP - F1 HD" group-title="UK SPORTS",SSP - F1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16558.ts
+#EXTINF:-1 tvg-name="SSP - Football 50FPS" group-title="UK SPORTS",SSP - Football 50FPS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58923.ts
+#EXTINF:-1 tvg-name="SSP - FOOTBALL HD" group-title="UK SPORTS",SSP - FOOTBALL HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/48551.ts
+#EXTINF:-1 tvg-name="SSP - GOLF" group-title="UK SPORTS",SSP - GOLF
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16568.ts
+#EXTINF:-1 tvg-name="SSP - Golf 50FPS" group-title="UK SPORTS",SSP - Golf 50FPS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58922.ts
+#EXTINF:-1 tvg-name="SSP - GOLF HD" group-title="UK SPORTS",SSP - GOLF HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16560.ts
+#EXTINF:-1 tvg-name="SSP - MAIN EVENT" group-title="UK SPORTS",SSP - MAIN EVENT
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16571.ts
+#EXTINF:-1 tvg-name="SSP - Main Event 50FPS" group-title="UK SPORTS",SSP - Main Event 50FPS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58925.ts
+#EXTINF:-1 tvg-name="SSP - MAIN EVENT HD" group-title="UK SPORTS",SSP - MAIN EVENT HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16563.ts
+#EXTINF:-1 tvg-name="SSP - Mix 50FPS FHD" group-title="UK SPORTS",SSP - Mix 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58917.ts
+#EXTINF:-1 tvg-name="SSP - MIX HD" group-title="UK SPORTS",SSP - MIX HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16573.ts
+#EXTINF:-1 tvg-name="SSP - News 50FPS FHD" group-title="UK SPORTS",SSP - News 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58915.ts
+#EXTINF:-1 tvg-name="SSP - NEWS HD" group-title="UK SPORTS",SSP - NEWS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16572.ts
+#EXTINF:-1 tvg-name="SSP - PLUS 50FPS FHD" group-title="UK SPORTS",SSP - PLUS 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58918.ts
+#EXTINF:-1 tvg-name="SSP - PLUS HD" group-title="UK SPORTS",SSP - PLUS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16566.ts
+#EXTINF:-1 tvg-name="SSP - PREMIER LEAGUE - HD" group-title="UK SPORTS",SSP - PREMIER LEAGUE - HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16559.ts
+#EXTINF:-1 tvg-name="SSP - Premier League 50 FPS" group-title="UK SPORTS",SSP - Premier League 50 FPS
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58924.ts
+#EXTINF:-1 tvg-name="SSP - Racing 50FPS FHD" group-title="UK SPORTS",SSP - Racing 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58916.ts
+#EXTINF:-1 tvg-name="SSP - RACING HD" group-title="UK SPORTS",SSP - RACING HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/39908.ts
+#EXTINF:-1 tvg-name="SSP - TENNIS HD" group-title="UK SPORTS",SSP - TENNIS HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59174.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 1 HD" group-title="UK SPORTS",TNT SPORTS 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16552.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 1 HD 720 50fps" group-title="UK SPORTS",TNT SPORTS 1 HD 720 50fps
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43128.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 2 HD" group-title="UK SPORTS",TNT SPORTS 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16551.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 2 HD 720 50fps" group-title="UK SPORTS",TNT SPORTS 2 HD 720 50fps
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43126.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 3 HD" group-title="UK SPORTS",TNT SPORTS 3 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16550.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 3 HD 720 50fps" group-title="UK SPORTS",TNT SPORTS 3 HD 720 50fps
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/43124.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 4 HD" group-title="UK SPORTS",TNT SPORTS 4 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16549.ts
+#EXTINF:-1 tvg-name="TNT SPORTS 4 HD 720 50fps" group-title="UK SPORTS",TNT SPORTS 4 HD 720 50fps
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57420.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 05" group-title="UK SPORTS",TNT SPORTS EXTRA 05
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/38151.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 06" group-title="UK SPORTS",TNT SPORTS EXTRA 06
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16548.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 07" group-title="UK SPORTS",TNT SPORTS EXTRA 07
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16547.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 08" group-title="UK SPORTS",TNT SPORTS EXTRA 08
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16546.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 09" group-title="UK SPORTS",TNT SPORTS EXTRA 09
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16545.ts
+#EXTINF:-1 tvg-name="TNT SPORTS EXTRA 10" group-title="UK SPORTS",TNT SPORTS EXTRA 10
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57171.ts
+#EXTINF:-1 tvg-name="TNT Sports Ultimate 4K" group-title="UK SPORTS",TNT Sports Ultimate 4K
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60102.ts
+#EXTINF:-1 tvg-name="UK: LA LIGA TV" group-title="UK SPORTS",UK: LA LIGA TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/47761.ts
+#EXTINF:-1 tvg-name="UK: LFC TV" group-title="UK SPORTS",UK: LFC TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27741.ts
+#EXTINF:-1 tvg-name="UK: MUTV" group-title="UK SPORTS",UK: MUTV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/27727.ts
+#EXTINF:-1 tvg-name="UK: Premier Sport 1 50FPS FHD" group-title="UK SPORTS",UK: Premier Sport 1 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58928.ts
+#EXTINF:-1 tvg-name="UK: Premier Sport 1 HD" group-title="UK SPORTS",UK: Premier Sport 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59141.ts
+#EXTINF:-1 tvg-name="UK: Premier Sport 2 50FPS FHD" group-title="UK SPORTS",UK: Premier Sport 2 50FPS FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/58927.ts
+#EXTINF:-1 tvg-name="UK: Premier Sport 2 HD" group-title="UK SPORTS",UK: Premier Sport 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59142.ts
+#EXTINF:-1 tvg-name="UK: Racing TV" group-title="UK SPORTS",UK: Racing TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/22419.ts
+#EXTINF:-1 tvg-name="UK: RACING TV HD" group-title="UK SPORTS",UK: RACING TV HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/28011.ts
+#EXTINF:-1 tvg-name="UK: Viaplay SPORTS 1 HD" group-title="UK SPORTS",UK: Viaplay SPORTS 1 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/20642.ts
+#EXTINF:-1 tvg-name="UK: Viaplay SPORTS 2 HD" group-title="UK SPORTS",UK: Viaplay SPORTS 2 HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/41938.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP 1 " group-title="UK SPORTS",UKUHD: SSP 1 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59262.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP 2" group-title="UK SPORTS",UKUHD: SSP 2
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59263.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP F1" group-title="UK SPORTS",UKUHD: SSP F1
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59264.ts
+#EXTINF:-1 tvg-name="UKUHD: SSP Main Event" group-title="UK SPORTS",UKUHD: SSP Main Event
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59265.ts
+#EXTINF:-1 tvg-name="WILLOW CRICKET HD" group-title="UK SPORTS",WILLOW CRICKET HD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/31092.ts
+
 ## USA CHANNELS ##
 
 #EXTINF:-1 tvg-name="USA: A & E" group-title="USA",USA: A & E
