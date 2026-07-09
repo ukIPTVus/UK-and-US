@@ -199,58 +199,8 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50132.ts
 #EXTINF:-1 tvg-name="UK: YESTERDAY+1" group-title="UK",UK: YESTERDAY+1
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50133.ts
 
-## UK FREE TO AIR ##
 
-#EXTM3U
-#EXTINF:-1 tvg-name="UK | 4Sevenⓧ HD" group-title="|UK| FREE TO AIR",UK | 4Sevenⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40.ts
-#EXTINF:-1 tvg-name="UK | 4Sevenⓧ SD" group-title="|UK| FREE TO AIR",UK | 4Sevenⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/39.ts
-#EXTINF:-1 tvg-name="UK | 5 Starⓧ HD" group-title="|UK| FREE TO AIR",UK | 5 Starⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/42.ts
-#EXTINF:-1 tvg-name="UK | 5 USAⓧ" group-title="|UK| FREE TO AIR",UK | 5 USAⓧ
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/43.ts
-#EXTINF:-1 tvg-name="UK | 5Selectⓧ HD" group-title="|UK| FREE TO AIR",UK | 5Selectⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/40113.ts
-#EXTINF:-1 tvg-name="UK | BBC Oneⓧ FHD" group-title="|UK| FREE TO AIR",UK | BBC Oneⓧ FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/285.ts
-#EXTINF:-1 tvg-name="UK | BBC Oneⓧ HD" group-title="|UK| FREE TO AIR",UK | BBC Oneⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/65399.ts
-#EXTINF:-1 tvg-name="UK | BBC Oneⓧ SD" group-title="|UK| FREE TO AIR",UK | BBC Oneⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/57.ts
-#EXTINF:-1 tvg-name="UK | BBC Twoⓧ FHD" group-title="|UK| FREE TO AIR",UK | BBC Twoⓧ FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/121188.ts
-#EXTINF:-1 tvg-name="UK | BBC Twoⓧ HD" group-title="|UK| FREE TO AIR",UK | BBC Twoⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74454.ts
-#EXTINF:-1 tvg-name="UK | BBC Twoⓧ SD" group-title="|UK| FREE TO AIR",UK | BBC Twoⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/59.ts
-#EXTINF:-1 tvg-name="UK | Challengeⓧ HD" group-title="|UK| FREE TO AIR",UK | Challengeⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48616.ts
-#EXTINF:-1 tvg-name="UK | Challengeⓧ SD" group-title="|UK| FREE TO AIR",UK | Challengeⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/239.ts
-#EXTINF:-1 tvg-name="UK | Channel 4ⓧ FHD" group-title="|UK| FREE TO AIR",UK | Channel 4ⓧ FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/287.ts
-#EXTINF:-1 tvg-name="UK | Channel 4ⓧ HD" group-title="|UK| FREE TO AIR",UK | Channel 4ⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/73.ts
-#EXTINF:-1 tvg-name="UK | Channel 4ⓧ SD" group-title="|UK| FREE TO AIR",UK | Channel 4ⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74455.ts
-#EXTINF:-1 tvg-name="UK | Channel 5ⓧ FHD" group-title="|UK| FREE TO AIR",UK | Channel 5ⓧ FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/288.ts
-#EXTINF:-1 tvg-name="UK | Channel 5ⓧ HD" group-title="|UK| FREE TO AIR",UK | Channel 5ⓧ HD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/74.ts
-#EXTINF:-1 tvg-name="UK | Channel 5ⓧ SD" group-title="|UK| FREE TO AIR",UK | Channel 5ⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/48619.ts
-#EXTINF:-1 tvg-name="UK | Crime Investigation" group-title="|UK| FREE TO AIR",UK | Crime Investigation
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/77818.ts
-#EXTINF:-1 tvg-name="UK | DMAXⓧ SD" group-title="|UK| FREE TO AIR",UK | DMAXⓧ SD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/249.ts
-#EXTINF:-1 tvg-name="UK | E4 Extraⓧ " group-title="|UK| FREE TO AIR",UK | E4 Extraⓧ 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/96018.ts
-#EXTINF:-1 tvg-name="UK | E4ⓧ FHD" group-title="|UK| FREE TO AIR",UK | E4ⓧ FHD
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/91.ts
-#EXTINF:-1 tvg-name="UK | E4ⓧ HD " group-title="|UK| FREE TO AIR",UK | E4ⓧ HD 
-http://porritos.giize.com:8080/live/Limitless_discord/jKJvVnMHB6mhwrqBRwhCumNLJDUSAt/104873.ts
-#EXTINF:-1 tvg-name="UK | E4ⓧ SD" group-title="|UK| FREE TO AIR",UK | E4ⓧ SD
+## UK SPORTS ##
 
 #EXTM3U
 #EXTINF:-1 tvg-name="BEIN SPORTS  Premium 1 HD" group-title="UK SPORTS",BEIN SPORTS  Premium 1 HD
@@ -789,7 +739,7 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61671.ts
 #EXTINF:-1 tvg-name="USA: WORLD FISHING NETWORK" group-title="USA",USA: WORLD FISHING NETWORK
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/32136.ts
 
-## SPORTS CHANNELS ##
+## USA SPORTS ##
 
 #EXTM3U
 #EXTINF:-1 tvg-name="CA: SPORTSNET 360" group-title="SPORTS",CA: SPORTSNET 360
@@ -968,6 +918,364 @@ http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/45318.ts
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59166.ts
 #EXTINF:-1 tvg-name="USA: YES NETWORK" group-title="SPORTS",USA: YES NETWORK
 http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/16480.ts
+
+## FOOTBALL ##
+
+#EXTM3U
+#EXTINF:-1 tvg-name="4K HK Now Sports 1 (EPL)" group-title="FOOTBALL",4K HK Now Sports 1 (EPL)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/50172.ts
+#EXTINF:-1 tvg-name="4K HK Now Sports 2 (EPL)" group-title="FOOTBALL",4K HK Now Sports 2 (EPL)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61688.ts
+#EXTINF:-1 tvg-name="4K HK Now Sports 3 (EPL)" group-title="FOOTBALL",4K HK Now Sports 3 (EPL)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61689.ts
+#EXTINF:-1 tvg-name="EPL : AFC Bournemouth" group-title="FOOTBALL",EPL : AFC Bournemouth
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57521.ts
+#EXTINF:-1 tvg-name="EPL : Arsenal" group-title="FOOTBALL",EPL : Arsenal
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57523.ts
+#EXTINF:-1 tvg-name="EPL : Aston Villa" group-title="FOOTBALL",EPL : Aston Villa
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57522.ts
+#EXTINF:-1 tvg-name="EPL : Brentford" group-title="FOOTBALL",EPL : Brentford
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57520.ts
+#EXTINF:-1 tvg-name="EPL : Brighton" group-title="FOOTBALL",EPL : Brighton
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57519.ts
+#EXTINF:-1 tvg-name="EPL : Burnley" group-title="FOOTBALL",EPL : Burnley
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57514.ts
+#EXTINF:-1 tvg-name="EPL : Chelsea" group-title="FOOTBALL",EPL : Chelsea
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57518.ts
+#EXTINF:-1 tvg-name="EPL : Crystal Palace" group-title="FOOTBALL",EPL : Crystal Palace
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57517.ts
+#EXTINF:-1 tvg-name="EPL : Everton" group-title="FOOTBALL",EPL : Everton
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57516.ts
+#EXTINF:-1 tvg-name="EPL : Fulham" group-title="FOOTBALL",EPL : Fulham
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57515.ts
+#EXTINF:-1 tvg-name="EPL : Leeds" group-title="FOOTBALL",EPL : Leeds
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57504.ts
+#EXTINF:-1 tvg-name="EPL : Liverpool" group-title="FOOTBALL",EPL : Liverpool
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57513.ts
+#EXTINF:-1 tvg-name="EPL : Manchester City" group-title="FOOTBALL",EPL : Manchester City
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57512.ts
+#EXTINF:-1 tvg-name="EPL : Manchester Utd" group-title="FOOTBALL",EPL : Manchester Utd
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57511.ts
+#EXTINF:-1 tvg-name="EPL : Newcastle Utd" group-title="FOOTBALL",EPL : Newcastle Utd
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57510.ts
+#EXTINF:-1 tvg-name="EPL : Nottingham Forest" group-title="FOOTBALL",EPL : Nottingham Forest
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57509.ts
+#EXTINF:-1 tvg-name="EPL : Sunderland" group-title="FOOTBALL",EPL : Sunderland
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57508.ts
+#EXTINF:-1 tvg-name="EPL : Tottenham" group-title="FOOTBALL",EPL : Tottenham
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57507.ts
+#EXTINF:-1 tvg-name="EPL : West Ham" group-title="FOOTBALL",EPL : West Ham
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57506.ts
+#EXTINF:-1 tvg-name="EPL : Wolverhampton Wanderers" group-title="FOOTBALL",EPL : Wolverhampton Wanderers
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57505.ts
+#EXTINF:-1 tvg-name="Hub Premier 01 FHD" group-title="FOOTBALL",Hub Premier 01 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57435.ts
+#EXTINF:-1 tvg-name="Hub Premier 02 FHD" group-title="FOOTBALL",Hub Premier 02 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57436.ts
+#EXTINF:-1 tvg-name="Hub Premier 03 FHD" group-title="FOOTBALL",Hub Premier 03 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57437.ts
+#EXTINF:-1 tvg-name="Hub Premier 04 FHD" group-title="FOOTBALL",Hub Premier 04 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57438.ts
+#EXTINF:-1 tvg-name="Hub Premier 05 FHD" group-title="FOOTBALL",Hub Premier 05 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57439.ts
+#EXTINF:-1 tvg-name="Hub Premier 06 FHD" group-title="FOOTBALL",Hub Premier 06 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57440.ts
+#EXTINF:-1 tvg-name="Hub Premier 07 FHD" group-title="FOOTBALL",Hub Premier 07 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57441.ts
+#EXTINF:-1 tvg-name="Hub Premier 08 FHD" group-title="FOOTBALL",Hub Premier 08 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57442.ts
+#EXTINF:-1 tvg-name="Hub Premier 09 FHD" group-title="FOOTBALL",Hub Premier 09 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57443.ts
+#EXTINF:-1 tvg-name="Hub Premier 10 FHD" group-title="FOOTBALL",Hub Premier 10 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57444.ts
+#EXTINF:-1 tvg-name="Hub Premier 11 FHD" group-title="FOOTBALL",Hub Premier 11 FHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/57445.ts
+#EXTINF:-1 tvg-name="Hub Premier 2 UHD" group-title="FOOTBALL",Hub Premier 2 UHD
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59401.ts
+#EXTINF:-1 tvg-name="Live Football  4K : " group-title="FOOTBALL",Live Football  4K : 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61687.ts
+#EXTINF:-1 tvg-name="Live Football 01: " group-title="FOOTBALL",Live Football 01: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60103.ts
+#EXTINF:-1 tvg-name="Live Football 02: " group-title="FOOTBALL",Live Football 02: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60104.ts
+#EXTINF:-1 tvg-name="Live Football 03: " group-title="FOOTBALL",Live Football 03: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60105.ts
+#EXTINF:-1 tvg-name="Live Football 04: " group-title="FOOTBALL",Live Football 04: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60106.ts
+#EXTINF:-1 tvg-name="Live Football 05: " group-title="FOOTBALL",Live Football 05: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60107.ts
+#EXTINF:-1 tvg-name="Live Football 06: " group-title="FOOTBALL",Live Football 06: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60108.ts
+#EXTINF:-1 tvg-name="Live Football 07: " group-title="FOOTBALL",Live Football 07: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60109.ts
+#EXTINF:-1 tvg-name="Live Football 08: " group-title="FOOTBALL",Live Football 08: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60110.ts
+#EXTINF:-1 tvg-name="Live Football 09: " group-title="FOOTBALL",Live Football 09: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60111.ts
+#EXTINF:-1 tvg-name="Live Football 10: " group-title="FOOTBALL",Live Football 10: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60112.ts
+#EXTINF:-1 tvg-name="Live Football 11: " group-title="FOOTBALL",Live Football 11: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60113.ts
+#EXTINF:-1 tvg-name="Live Football 12: " group-title="FOOTBALL",Live Football 12: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60114.ts
+#EXTINF:-1 tvg-name="Live Football 13: " group-title="FOOTBALL",Live Football 13: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60115.ts
+#EXTINF:-1 tvg-name="Live Football 14: " group-title="FOOTBALL",Live Football 14: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60116.ts
+#EXTINF:-1 tvg-name="Live Football 15: " group-title="FOOTBALL",Live Football 15: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60117.ts
+#EXTINF:-1 tvg-name="Live Football 16: " group-title="FOOTBALL",Live Football 16: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60118.ts
+#EXTINF:-1 tvg-name="Live Football 17: " group-title="FOOTBALL",Live Football 17: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60119.ts
+#EXTINF:-1 tvg-name="Live Football 18: " group-title="FOOTBALL",Live Football 18: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60120.ts
+#EXTINF:-1 tvg-name="Live Football 19: " group-title="FOOTBALL",Live Football 19: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60121.ts
+#EXTINF:-1 tvg-name="Live Football 20: " group-title="FOOTBALL",Live Football 20: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60122.ts
+#EXTINF:-1 tvg-name="Live Football 21 : " group-title="FOOTBALL",Live Football 21 : 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60123.ts
+#EXTINF:-1 tvg-name="Live Football 22: " group-title="FOOTBALL",Live Football 22: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60124.ts
+#EXTINF:-1 tvg-name="Live Football 23: " group-title="FOOTBALL",Live Football 23: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60125.ts
+#EXTINF:-1 tvg-name="Live Football 24: " group-title="FOOTBALL",Live Football 24: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60126.ts
+#EXTINF:-1 tvg-name="Live Football 25:" group-title="FOOTBALL",Live Football 25:
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60127.ts
+#EXTINF:-1 tvg-name="Live Football 26:" group-title="FOOTBALL",Live Football 26:
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60128.ts
+#EXTINF:-1 tvg-name="Live Football 27:" group-title="FOOTBALL",Live Football 27:
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60129.ts
+#EXTINF:-1 tvg-name="Live Football 28:" group-title="FOOTBALL",Live Football 28:
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60130.ts
+#EXTINF:-1 tvg-name="Live Football 29: " group-title="FOOTBALL",Live Football 29: 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60168.ts
+#EXTINF:-1 tvg-name="Live Football 30:" group-title="FOOTBALL",Live Football 30:
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60131.ts
+#EXTINF:-1 tvg-name="Live Football 31:" group-title="FOOTBALL",Live Football 31:
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60132.ts
+#EXTINF:-1 tvg-name="Live Football 32:" group-title="FOOTBALL",Live Football 32:
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/60133.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Aberdeen FC (Reds TV)" group-title="FOOTBALL",Scottish Prem : Aberdeen FC (Reds TV)
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55770.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Celtic TV" group-title="FOOTBALL",Scottish Prem : Celtic TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55772.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Dundee Utd FC" group-title="FOOTBALL",Scottish Prem : Dundee Utd FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55769.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Hearts FC" group-title="FOOTBALL",Scottish Prem : Hearts FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55768.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Hibs FC" group-title="FOOTBALL",Scottish Prem : Hibs FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55767.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Kilimarnock FC" group-title="FOOTBALL",Scottish Prem : Kilimarnock FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55766.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Livingston FC" group-title="FOOTBALL",Scottish Prem : Livingston FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55765.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Motherwell FC" group-title="FOOTBALL",Scottish Prem : Motherwell FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55764.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Rangers TV" group-title="FOOTBALL",Scottish Prem : Rangers TV
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55771.ts
+#EXTINF:-1 tvg-name="Scottish Prem : Ross County FC" group-title="FOOTBALL",Scottish Prem : Ross County FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55763.ts
+#EXTINF:-1 tvg-name="Scottish Prem : St. Johnstone FC" group-title="FOOTBALL",Scottish Prem : St. Johnstone FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55762.ts
+#EXTINF:-1 tvg-name="Scottish Prem : St. Mirren FC" group-title="FOOTBALL",Scottish Prem : St. Mirren FC
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/55761.ts
+#EXTINF:-1 tvg-name="Setanta | Event 01" group-title="FOOTBALL",Setanta | Event 01
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59622.ts
+#EXTINF:-1 tvg-name="Setanta | Event 02" group-title="FOOTBALL",Setanta | Event 02
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59621.ts
+#EXTINF:-1 tvg-name="Setanta | Event 03" group-title="FOOTBALL",Setanta | Event 03
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59620.ts
+#EXTINF:-1 tvg-name="Setanta | Event 04" group-title="FOOTBALL",Setanta | Event 04
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59619.ts
+#EXTINF:-1 tvg-name="Setanta | Event 05" group-title="FOOTBALL",Setanta | Event 05
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59618.ts
+#EXTINF:-1 tvg-name="Setanta | Event 06" group-title="FOOTBALL",Setanta | Event 06
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59617.ts
+#EXTINF:-1 tvg-name="Setanta | Event 07" group-title="FOOTBALL",Setanta | Event 07
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59616.ts
+#EXTINF:-1 tvg-name="Setanta | Event 08" group-title="FOOTBALL",Setanta | Event 08
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59615.ts
+#EXTINF:-1 tvg-name="Setanta | Event 09" group-title="FOOTBALL",Setanta | Event 09
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59614.ts
+#EXTINF:-1 tvg-name="Setanta | Event 10" group-title="FOOTBALL",Setanta | Event 10
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59613.ts
+#EXTINF:-1 tvg-name="Setanta | Event 11" group-title="FOOTBALL",Setanta | Event 11
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59612.ts
+#EXTINF:-1 tvg-name="Setanta | Event 12" group-title="FOOTBALL",Setanta | Event 12
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59611.ts
+#EXTINF:-1 tvg-name="Setanta | Event 13" group-title="FOOTBALL",Setanta | Event 13
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59610.ts
+#EXTINF:-1 tvg-name="Setanta | Event 14" group-title="FOOTBALL",Setanta | Event 14
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59609.ts
+#EXTINF:-1 tvg-name="Setanta | Event 15" group-title="FOOTBALL",Setanta | Event 15
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59608.ts
+#EXTINF:-1 tvg-name="Setanta | Event 16" group-title="FOOTBALL",Setanta | Event 16
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59607.ts
+#EXTINF:-1 tvg-name="Setanta | Event 17" group-title="FOOTBALL",Setanta | Event 17
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59606.ts
+#EXTINF:-1 tvg-name="Setanta | Event 18" group-title="FOOTBALL",Setanta | Event 18
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59605.ts
+#EXTINF:-1 tvg-name="Setanta | Event 19" group-title="FOOTBALL",Setanta | Event 19
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59604.ts
+#EXTINF:-1 tvg-name="Setanta | Event 20" group-title="FOOTBALL",Setanta | Event 20
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59603.ts
+#EXTINF:-1 tvg-name="Setanta | Event 21" group-title="FOOTBALL",Setanta | Event 21
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59602.ts
+#EXTINF:-1 tvg-name="Setanta | Event 22" group-title="FOOTBALL",Setanta | Event 22
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59601.ts
+#EXTINF:-1 tvg-name="Setanta | Event 23" group-title="FOOTBALL",Setanta | Event 23
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59600.ts
+#EXTINF:-1 tvg-name="Setanta | Event 24" group-title="FOOTBALL",Setanta | Event 24
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59599.ts
+#EXTINF:-1 tvg-name="Setanta | Event 25" group-title="FOOTBALL",Setanta | Event 25
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59598.ts
+#EXTINF:-1 tvg-name="Setanta | Event 26" group-title="FOOTBALL",Setanta | Event 26
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59597.ts
+#EXTINF:-1 tvg-name="Setanta | Event 27" group-title="FOOTBALL",Setanta | Event 27
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59596.ts
+#EXTINF:-1 tvg-name="Setanta | Event 28" group-title="FOOTBALL",Setanta | Event 28
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59595.ts
+#EXTINF:-1 tvg-name="Setanta | Event 29" group-title="FOOTBALL",Setanta | Event 29
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59594.ts
+#EXTINF:-1 tvg-name="Setanta | Event 30" group-title="FOOTBALL",Setanta | Event 30
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59593.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 01" group-title="FOOTBALL",Stan Sport AU Event 01
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59642.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 02" group-title="FOOTBALL",Stan Sport AU Event 02
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59641.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 03" group-title="FOOTBALL",Stan Sport AU Event 03
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59640.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 04" group-title="FOOTBALL",Stan Sport AU Event 04
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59639.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 05" group-title="FOOTBALL",Stan Sport AU Event 05
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59638.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 06" group-title="FOOTBALL",Stan Sport AU Event 06
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59637.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 07" group-title="FOOTBALL",Stan Sport AU Event 07
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59636.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 08" group-title="FOOTBALL",Stan Sport AU Event 08
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59635.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 09" group-title="FOOTBALL",Stan Sport AU Event 09
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59634.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 10" group-title="FOOTBALL",Stan Sport AU Event 10
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59633.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 11" group-title="FOOTBALL",Stan Sport AU Event 11
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59632.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 12" group-title="FOOTBALL",Stan Sport AU Event 12
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59631.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 13" group-title="FOOTBALL",Stan Sport AU Event 13
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59630.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 14" group-title="FOOTBALL",Stan Sport AU Event 14
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59629.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 15" group-title="FOOTBALL",Stan Sport AU Event 15
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59628.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 16" group-title="FOOTBALL",Stan Sport AU Event 16
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59627.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 17" group-title="FOOTBALL",Stan Sport AU Event 17
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59626.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 18" group-title="FOOTBALL",Stan Sport AU Event 18
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59625.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 19" group-title="FOOTBALL",Stan Sport AU Event 19
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59624.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 20" group-title="FOOTBALL",Stan Sport AU Event 20
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59623.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 21" group-title="FOOTBALL",Stan Sport AU Event 21
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59675.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 22" group-title="FOOTBALL",Stan Sport AU Event 22
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59676.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 23" group-title="FOOTBALL",Stan Sport AU Event 23
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59677.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 24" group-title="FOOTBALL",Stan Sport AU Event 24
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59678.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 25" group-title="FOOTBALL",Stan Sport AU Event 25
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59679.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 26" group-title="FOOTBALL",Stan Sport AU Event 26
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59680.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 27" group-title="FOOTBALL",Stan Sport AU Event 27
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59681.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 28" group-title="FOOTBALL",Stan Sport AU Event 28
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59682.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 29" group-title="FOOTBALL",Stan Sport AU Event 29
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59683.ts
+#EXTINF:-1 tvg-name="Stan Sport AU Event 30" group-title="FOOTBALL",Stan Sport AU Event 30
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59684.ts
+#EXTINF:-1 tvg-name="UEFA | 01 - " group-title="FOOTBALL",UEFA | 01 - 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59673.ts
+#EXTINF:-1 tvg-name="UEFA | 02 - " group-title="FOOTBALL",UEFA | 02 - 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59672.ts
+#EXTINF:-1 tvg-name="UEFA | 03 - " group-title="FOOTBALL",UEFA | 03 - 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59674.ts
+#EXTINF:-1 tvg-name="UEFA | 04 - " group-title="FOOTBALL",UEFA | 04 - 
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59671.ts
+#EXTINF:-1 tvg-name="UEFA | 05 -" group-title="FOOTBALL",UEFA | 05 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59670.ts
+#EXTINF:-1 tvg-name="UEFA | 06 -" group-title="FOOTBALL",UEFA | 06 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59669.ts
+#EXTINF:-1 tvg-name="UEFA | 07 -" group-title="FOOTBALL",UEFA | 07 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59668.ts
+#EXTINF:-1 tvg-name="UEFA | 08 -" group-title="FOOTBALL",UEFA | 08 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59667.ts
+#EXTINF:-1 tvg-name="UEFA | 09 -" group-title="FOOTBALL",UEFA | 09 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59666.ts
+#EXTINF:-1 tvg-name="UEFA | 10 -" group-title="FOOTBALL",UEFA | 10 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59665.ts
+#EXTINF:-1 tvg-name="UEFA | 11 -" group-title="FOOTBALL",UEFA | 11 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59664.ts
+#EXTINF:-1 tvg-name="UEFA | 12 -" group-title="FOOTBALL",UEFA | 12 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59663.ts
+#EXTINF:-1 tvg-name="UEFA | 13 -" group-title="FOOTBALL",UEFA | 13 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59662.ts
+#EXTINF:-1 tvg-name="UEFA | 14 -" group-title="FOOTBALL",UEFA | 14 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59661.ts
+#EXTINF:-1 tvg-name="UEFA | 15 -" group-title="FOOTBALL",UEFA | 15 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59660.ts
+#EXTINF:-1 tvg-name="UEFA | 16 -" group-title="FOOTBALL",UEFA | 16 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59659.ts
+#EXTINF:-1 tvg-name="UEFA | 17 -" group-title="FOOTBALL",UEFA | 17 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59658.ts
+#EXTINF:-1 tvg-name="UEFA | 18 -" group-title="FOOTBALL",UEFA | 18 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59657.ts
+#EXTINF:-1 tvg-name="UEFA | 19 -" group-title="FOOTBALL",UEFA | 19 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59656.ts
+#EXTINF:-1 tvg-name="UEFA | 20 -" group-title="FOOTBALL",UEFA | 20 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59655.ts
+#EXTINF:-1 tvg-name="UEFA | 21 -" group-title="FOOTBALL",UEFA | 21 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59654.ts
+#EXTINF:-1 tvg-name="UEFA | 22 -" group-title="FOOTBALL",UEFA | 22 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59653.ts
+#EXTINF:-1 tvg-name="UEFA | 23 -" group-title="FOOTBALL",UEFA | 23 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59652.ts
+#EXTINF:-1 tvg-name="UEFA | 24 -" group-title="FOOTBALL",UEFA | 24 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59651.ts
+#EXTINF:-1 tvg-name="UEFA | 25 -" group-title="FOOTBALL",UEFA | 25 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59650.ts
+#EXTINF:-1 tvg-name="UEFA | 26 -" group-title="FOOTBALL",UEFA | 26 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59649.ts
+#EXTINF:-1 tvg-name="UEFA | 27 -" group-title="FOOTBALL",UEFA | 27 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59648.ts
+#EXTINF:-1 tvg-name="UEFA | 28 -" group-title="FOOTBALL",UEFA | 28 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59647.ts
+#EXTINF:-1 tvg-name="UEFA | 29 -" group-title="FOOTBALL",UEFA | 29 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59646.ts
+#EXTINF:-1 tvg-name="UEFA | 30 -" group-title="FOOTBALL",UEFA | 30 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59645.ts
+#EXTINF:-1 tvg-name="UEFA | 31 -" group-title="FOOTBALL",UEFA | 31 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59644.ts
+#EXTINF:-1 tvg-name="UEFA | 32 -" group-title="FOOTBALL",UEFA | 32 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/59643.ts
+#EXTINF:-1 tvg-name="UEFA | 33 -" group-title="FOOTBALL",UEFA | 33 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61680.ts
+#EXTINF:-1 tvg-name="UEFA | 34 -" group-title="FOOTBALL",UEFA | 34 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61679.ts
+#EXTINF:-1 tvg-name="UEFA | 35 -" group-title="FOOTBALL",UEFA | 35 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61678.ts
+#EXTINF:-1 tvg-name="UEFA | 36 -" group-title="FOOTBALL",UEFA | 36 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61677.ts
+#EXTINF:-1 tvg-name="UEFA | 37 -" group-title="FOOTBALL",UEFA | 37 -
+http://etvserv.xyz:55337/live/x27dCAFFz/bhV0eTo972/61676.ts
 
 ## Kids ##
 
